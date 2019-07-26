@@ -1,0 +1,32 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 20px;
+  }
+  
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+h1{
+  font-size: 46px;
+  color: #ee0a0a;
+
+}
+
+h2{
+  font-style: 36px;
+}
+
+#conteiner{
+  color: #ee0a0a;
+}
