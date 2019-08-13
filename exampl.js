@@ -28,7 +28,7 @@ let car = {
   color: "red",
   drivers: ["Иван", "Сергей", "Алексей", "Петр"],
 
-  getDrivers: function(inlex) {
+  getDrivers: function (inlex) {
     console.log("Водитель " + this.drivers[inlex]);
   },
 
